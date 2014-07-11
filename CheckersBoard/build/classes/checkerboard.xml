@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<checkerboard>
+    <square_group>
+        <square>
+            <squarenumber>1</squarenumber>
+        </square>
+        <square>
+            <squarenumber>2</squarenumber>
+        </square>
+        <square>
+            <squarenumber>3</squarenumber>
+        </square>
+    </square_group>
+    <square_group>
+        <square>
+            <squarenumber>4</squarenumber>
+        </square>
+        <square>
+            <squarenumber>5</squarenumber>
+        </square>
+        <square>
+            <squarenumber>6</squarenumber>
+        </square>
+    </square_group>
+    <square_group>
+        <square>
+            <squarenumber>7</squarenumber>
+        </square>
+        <square>
+            <squarenumber>8</squarenumber>
+        </square>
+        <square>
+            <squarenumber>9</squarenumber>
+        </square>
+    </square_group>
+    <namefileds>
+        <namefield1>playername1</namefield1>
+        <namefield2>playername2</namefield2>
+    </namefileds>
+    <button>start</button>
+</checkerboard>

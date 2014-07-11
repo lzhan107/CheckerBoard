@@ -1,0 +1,26 @@
+.button1 a:link, .button1 a:hover, .button1 a:active{
+padding: 0.4em 1em 0.4em 1em; 
+color: #FFFFFF;
+background-color: #000000;
+text-decoration: none;
+border: 1px solid #711515;
+height:100px;
+width:100px;
+}
+.button1 a:visited {
+color: #FFFFFF;
+background-color: #000000;
+}
+.button2 a:link, .button2 a:hover, .button2 a:active{
+padding: 0.4em 1em 0.4em 1em; 
+color: #000000;
+background-color: #FFFFFF;
+text-decoration: none;
+border: 1px solid #711515;
+height:100px;
+width:100px;
+}
+.button2 a:visited {
+color: #000000;
+background-color: #FFFFFF;
+} 
